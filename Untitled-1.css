@@ -1,0 +1,26 @@
+                .Greeting {
+                    color: rgb(102, 216, 224);
+                    font-size: 50px;
+                    text-align: center;
+                    text-decoration: underline;
+                    background-color: rgb(47, 16, 77);
+                }
+                
+                .Cost {
+                    color: rgb(20, 255, 216);
+                    text-align: initial;
+                    text-decoration: solid;
+                    background-color: rgb(84, 38, 114);
+                    text-align: center;
+                }
+                
+                .Prgrph {
+                    color: lightcoral;
+                    text-decoration: mediumslateblue;
+                    text-align: center;
+                }
+                
+                body {
+                    background-image: url('Cover-image.gif');
+                    background-repeat: repeat;
+                }
